@@ -1,0 +1,56 @@
+
+#circule{
+    margin: 30px auto;
+    background: linear-gradient(to right, green, black);
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+header{
+    background: linear-gradient(to right, green, black);
+    height: 100px;
+    color: lightgrey
+}
+
+header h1{
+    text-align: center;
+    text-shadow: 100px;
+    padding-top: 25px;
+}
+
+#img-shiba{
+    width: 50%;
+    border-radius: 100%;
+    border: 3px inset green;
+}
+
+.text-input{
+    width: 40%;
+    margin: 10px 10px;
+    padding: 5px;
+    border: none;
+    border-bottom: 1px solid black;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.button-input{
+    padding: 10px 20px;
+    margin: 20px 40%;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.combo{
+    width: 40%;
+    margin: 10px 10px;
+    padding: 5px;
+    border: none;
+    border-bottom: 1px solid black;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
